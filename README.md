@@ -1,6 +1,6 @@
 # Salut, moi c’est Félix — aka *TheChatou*
 
-Développeur créatif en devenir, actuellement en fin de cursus à **42 Paris**.
+Développeur Créatif en devenir, actuellement en fin de cursus à **42 Paris**.
 
 Mon parcours est volontairement atypique : j’ai commencé par la **création visuelle** (design graphique et photographie), puis j’ai passé **plus de dix ans dans des environnements très concrets** — gestion de lieux, événementiel, management d’équipes, production sous pression.  
 Depuis quelques années, je me suis reconverti dans le **développement informatique**, avec une attirance naturelle pour les projets où **le code, l’interaction et l’expérience utilisateur** sont étroitement liés.
