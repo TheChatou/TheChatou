@@ -24,7 +24,7 @@ Je m’intéresse particulièrement au **creative development**, aux projets int
 
 ### 42Hero — Jeu d’arcade embarqué
 **C / Arduino / embarqué / modélisation 3D**
-[![42Hero Preview](https://raw.githubusercontent.com/TheChatou/42Hero/master/assets/readme/prevStrip.png)](https://github.com/TheChatou/42Hero)
+[![42Hero Preview](https://raw.githubusercontent.com/TheChatou/42Hero/blob/master/docs/42Hero/prevStrip.png)](https://github.com/TheChatou/42Hero)
 
 Un jeu d’arcade rythmique physique à deux joueurs, inspiré de Guitar Hero, conçu pour être :
 - jouable immédiatement  
@@ -57,7 +57,7 @@ J’ai travaillé sur l’architecture front, les parcours UX/UI et la logique d
 
 ### Cub3D — Moteur de raycasting (Alice in Wonderland)
 **C / graphisme / bas niveau**
-[![Transcendence Preview](https://raw.githubusercontent.com/TheChatou/06_Transcendence/master/docs/transcendence/prevStrip.png)](https://github.com/TheChatou/06_Transcendence)
+[![Transcendence Preview](https://raw.githubusercontent.com/TheChatou/04_cub3d/blob/master/assets/readme/prevStrip.png)](https://github.com/TheChatou/04_cub3d)
 
 
 Un moteur de raycasting de type Wolfenstein 3D, écrit en C :
