@@ -1,4 +1,4 @@
-# Salut, moi c’est Félix — aka *TheChatou*
+# Salut, moi c’est Félix — aka *Chatou*
 
 Développeur Créatif en devenir, actuellement en fin de cursus à **42 Paris**.
 
